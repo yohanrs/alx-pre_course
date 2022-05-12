@@ -1,2 +1,2 @@
 'My first readme'
-'My first commit'
+ "Starting to code today, so cool"
